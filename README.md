@@ -22,16 +22,29 @@ In general, the conclusions can be stated as follows: of the more than 4,000 dat
 Louise wanted to know how theater outcomes performed on a monthly basis for the first analysis. Similarly, you may view its classification based on its success status: successful, unsuccessful, or canceled. 1370 of the 4,000 data points corresponded to plays that were performed in theaters and behaved as follows: 60% were regarded successful, 36% failed, and 2% were canceled. This was accomplished by the use of a horizontal analysis. For the first time Using a vertical analysis, it was discovered that the busiest months for theater activity were May, June, and July. This analysis was carried out in the following manner: First, the dates were determined, and then a pivot table was created in another Excel tab, with the filters restricted to only theaters. The columns represent the distinctive information of successful, failed, or cancelled, while the lines display the months.
 To depict the two studies, both vertical and horizontal, a graph called Theater results by launch date was created, in which you can see all of the behavior of the plays throughout the months' seasonalities.
 
-Theater_Outcomes_vs_Launch.png
+![Image](Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
+Twelve categories were grouped  from  less than 1,000 areas to more than 50,000 areas and a range of 5,000 area analyzes were performed to perform a goal-based analysis  of the results. This gave us an absolute idea of the grouping, but we also got the percentage. So that you can analyze their behavior and their distribution. No pivot table was used for this analysis because there was no range grouping. SO, we used count if formulas with conditionals to get our groups, and in addition to get a better analysis we made a graphic that shows the outliers, the the behavior of the goals by rank and their percentage.
+
+
+![Image](Outcomes_vs_Goals.png?raw=true)
+
 ### Challenges and Difficulties Encountered
+
+Some of the complications that were found were converting the obtained format into date format and had to be converted and used a time formula standardized by excel. Using is the date that the Unix timestamps began counting from, also known as the epoch. Another problem identified was the ability to visualize information on a monthly basis by providing it  to  the pivot table on a date basis rather than the  monthly basis required for analysis.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+One conclusion that can be drawn from the analysis is that  summer (the month from May to August) has a seasonality that presents the best results of successful plays.
+During the month of October no work was obtained with an outcome of canceled, this may be due to the fact that there is enough space to reproduce the works, since almost all of them are parked during the summer and secondly during the winter.
+During this ranges, 60% were regarded successful, 36% failed, and 2% were canceled.
+Despite october, failed presentations follow the same characteristics such as successful presentations.
+We completely recommend Louise to focus on summer presentations, because are the one with the best performances. The canceled ratio is only 2%, so is a good number. The failed performances are 36% if Louise can focus more on better subjects during summer, the failed ratio could be 30% during the next few years.
 
 - What can you conclude about the Outcomes based on Goals?
+The average percentage in succesfull 
 
 - What are some limitations of this dataset?
