@@ -11,8 +11,11 @@ Louise had all of her work's details; nonetheless, it was critical that she had 
 
 The main goal of this analysis was to show you quantitatively and graphically 1) What is the behavior and trend of Louise´s entertainment works (primarily theater) and 
 2) In addition to the works being classified as Successful / Failed / Canceled, make a second classification and grouping according to her goal.
+It is critical that the analysis is carried out appropriately using mathematical and Excel methodologies so that the deployment of information is optimal and correct decisions can be made. The arrangement of the information using pivot tables enables for an accurate and simple to analyze analysis.
 
 ## Analysis and Challenges
+
+In general, the conclusions can be stated as follows: of the more than 4,000 datasets that were initially available, around 1370 correspond to works that were performed in theater. The classification and grouping based on aims enabled them to understand the distribution of their works and where they fit in the analysis range, so the interpretation and future analysis will help to make better business decisions.
 
 ### Analysis of Outcomes Based on Launch Date
 
