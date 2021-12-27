@@ -19,6 +19,10 @@ In general, the conclusions can be stated as follows: of the more than 4,000 dat
 
 ### Analysis of Outcomes Based on Launch Date
 
+Louise wanted to know how theater outcomes performed on a monthly basis for the first analysis. Similarly, you may view its classification based on its success status: successful, unsuccessful, or canceled. 1370 of the 4,000 data points corresponded to plays that were performed in theaters and behaved as follows: 60% were regarded successful, 36% failed, and 2% were canceled. This was accomplished by the use of a horizontal analysis. For the first time Using a vertical analysis, it was discovered that the busiest months for theater activity were May, June, and July. This analysis was carried out in the following manner: First, the dates were determined, and then a pivot table was created in another Excel tab, with the filters restricted to only theaters. The columns represent the distinctive information of successful, failed, or cancelled, while the lines display the months.
+To depict the two studies, both vertical and horizontal, a graph called Theater results by launch date was created, in which you can see all of the behavior of the plays throughout the months' seasonalities.
+Theater
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
