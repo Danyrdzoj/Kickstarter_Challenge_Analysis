@@ -38,6 +38,7 @@ Some of the complications that were found were converting the obtained format in
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 One conclusion that can be drawn from the analysis is that  summer (the month from May to August) has a seasonality that presents the best results of successful plays.
 During the month of October no work was obtained with an outcome of canceled, this may be due to the fact that there is enough space to reproduce the works, since almost all of them are parked during the summer and secondly during the winter.
 During this ranges, 60% were regarded successful, 36% failed, and 2% were canceled.
@@ -45,6 +46,15 @@ Despite october, failed presentations follow the same characteristics such as su
 We completely recommend Louise to focus on summer presentations, because are the one with the best performances. The canceled ratio is only 2%, so is a good number. The failed performances are 36% if Louise can focus more on better subjects during summer, the failed ratio could be 30% during the next few years.
 
 - What can you conclude about the Outcomes based on Goals?
-The average percentage in succesfull 
+The average percentage in succesfull is around 45%, the 76% of the successful outcomes were allocated with a goal lower than 1,000 and 13% was higher than 50,000.
+
+We can conclude that, as the graphic shows, that the best outcomes are in a range 35,000 to 45,000 of the successful projects in a percentage results. However, in absoluts number we can conclude that most of the successful performances outcomes are in a range bewteen less than 1000 to 5,000 of their goal.
+The same characteristic is represented with the outcomes failed, most of the outcomes are concentrated in a goal between 1000, 5000.
+Based on goals, there are zeros canceled outcomes based on goals, such as percentages and absolutes there is no performance.
+
+We encourage Louise to get a better performances outcomes to get better goals.
+And try to get a second analysis to see the performance of the successful outcomes during a period of time, category and subcategory, in that way get better analysis, performances and executions.
 
 - What are some limitations of this dataset?
+Some od the limitations on this dataset were duration of the blurb so we can get a better analysis including the time the performance was alive, so we can get better results what are the titles that people prefer.
+Additional, another information that can be useful is the expected goal, so we can known how close the real goal was from the expectation.
